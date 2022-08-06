@@ -51,3 +51,5 @@ class App extends React.Component {
 }
 
 export default App;
+
+// I created this project for just practising basic of react js
